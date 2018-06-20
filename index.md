@@ -7,3 +7,7 @@
 #
 layout: home
 ---
+
+# This is the home page
+
+Other text goes here
