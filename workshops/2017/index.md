@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: workshop
 ---
 
 # this is the 2017 workshop
